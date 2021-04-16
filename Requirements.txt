@@ -1,0 +1,7 @@
+pip install:
+    - pandas
+    - scikit-learn
+    - BeautifulSoup
+    - requests
+    - joblib
+    - os-sys
