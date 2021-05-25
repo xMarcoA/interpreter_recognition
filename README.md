@@ -1,7 +1,4 @@
-interpreter_recognition is a program that uses song snippets to predict an interpret from whom the snipet could be.
-First, the lyrics of selected interpreters were scrapped with beautifulsoup from lyrics.com. Then the lyrics were broken down into individual words (word of bags). 2 machine models were trained with this bag to predict later the interpret.
-Interface.py is a command line interface where you can enter a song snipet and choose a machine learning model.
-You will receive the interpret from the selected model as an output.
+interpreter_recognition is a program, that uses song snippets to predict the interpret.
 
 
 lyrics_collector.py:
